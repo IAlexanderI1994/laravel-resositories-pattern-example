@@ -1,1 +1,0 @@
-# docker-nginx-mailhog-mysql
