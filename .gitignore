@@ -1,6 +1,9 @@
 # Global
+.idea
 .*.swp
 .DS_Store
+web/public/*
+!web/public/.gitignore
 
 # Application
 web/app/composer.json
@@ -11,10 +14,6 @@ web/app/report/
 /data
 
 
-# PHPStorm
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/dictionaries
 
 # Netbeans
 nbproject/
