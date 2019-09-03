@@ -2,8 +2,7 @@
 .idea
 .*.swp
 .DS_Store
-web/public/*
-!web/public/.gitignore
+
 
 # Application
 web/app/composer.json
